@@ -1,0 +1,1287 @@
+user_id,genotype_filename,Eye color,color_cat
+2953,2953.ftdna-illumina.1885,Dark brown,Brown
+4135,4135.ftdna-illumina.2801,Blue-grey,BGG
+4440,4440.ancestry.3043,Brown,Brown
+4441,4441.23andme.3044,Blue,BGG
+4111,4111.ancestry.2783,Hazel/light brown,Int
+4106,4106.23andme.2779,Blue,BGG
+4171,4171.23andme.2830,Brown,Brown
+3858,3858.ancestry.2568,Blue-grey; broken amber collarette,BGG
+3847,3847.23andme.2560,Blue-grey,BGG
+26,26.23andme-exome-vcf.237,blue-green,BGG
+3973,3973.23andme.2669,Brown,Brown
+3985,3985.ftdna-illumina.2681,Blue-green,BGG
+3998,3998.ftdna-illumina.2692,Blue,BGG
+4026,4026.ftdna-illumina.2715,Blue-green,BGG
+4088,4088.23andme.2768,Hazel/light brown,Int
+4133,4133.ancestry.2799,Blue-grey,BGG
+820,820.23andme.397,Brown,Brown
+822,822.IYG.398,Green,BGG
+609,609.23andme.401,Blue,BGG
+2554,2554.23andme.1573,Blue,BGG
+829,829.IYG.408,Blue-grey,BGG
+832,832.23andme.410,Brown,Brown
+4036,4036.23andme.2726,Hazel,Int
+836,836.23andme.413,Blue-grey,BGG
+839,839.23andme.415,Blue-grey,BGG
+842,842.23andme.417,Blue-green,BGG
+845,845.23andme.418,Brown,Brown
+850,850.23andme.420,Blue,BGG
+854,854.23andme.424,Brown,Brown
+865,865.23andme.427,Green,BGG
+2557,2557.23andme.1575,Brown,Brown
+466,466.23andme.447,Brown,Brown
+912,912.23andme.450,Blue,BGG
+915,915.23andme.451,Blue,BGG
+916,916.23andme.452,Brown,Brown
+918,918.23andme.454,Brown,Brown
+924,924.23andme.462,Brown,Brown
+926,926.23andme.463,Brown,Brown
+881,881.ftdna-illumina.429,Blue,BGG
+887,887.23andme.432,Blue,BGG
+903,903.23andme.438,Blue,BGG
+2568,2568.23andme.1588,Green,BGG
+2570,2570.23andme.1590,Blue-green,BGG
+1259,1259.ftdna-illumina.1591,Brown,Brown
+2571,2571.ancestry.1592,Brown,Brown
+2574,2574.ancestry.1593,Brown,Brown
+3004,3004.23andme.1925,Gray-blue,BGG
+937,937.23andme.468,Blue-green,BGG
+943,943.23andme.470,Dark brown,Brown
+669,669.23andme.471,Blue,BGG
+341,341.23andme.155,blue-grey,BGG
+945,945.ftdna-illumina.472,Blue-grey,BGG
+951,951.23andme.474,Brown,Brown
+952,952.23andme.475,Green,BGG
+954,954.23andme.478,Dark brown,Brown
+966,966.23andme.479,Brown,Brown
+968,968.23andme.482,Blue,BGG
+972,972.23andme.483,Blue,BGG
+990,990.23andme.492,Blue,BGG
+1010,1010.23andme.502,Brown,Brown
+1013,1013.23andme.503,Hazel,Int
+319,319.23andme.504,blue-green,BGG
+667,667.23andme.308,Blue-green,BGG
+675,675.23andme.313,Brown,Brown
+180,180.23andme.322,Hazel,Int
+704,704.23andme.323,Hazel,Int
+703,703.ftdna-illumina.324,Green,BGG
+8,8.23andme.2,Brown,Brown
+10,10.23andme.3,Brown,Brown
+13,13.23andme.4,brown,Brown
+6,6.23andme.5,brown,Brown
+14,14.23andme.6,Brown,Brown
+1,1.23andme.9,blue-green,BGG
+33,33.23andme.12,Brown,Brown
+36,36.23andme.14,hazel,Int
+38,38.23andme.16,blue,BGG
+42,42.23andme.18,hazel,Int
+44,44.23andme.19,brown,Brown
+45,45.23andme.20,blue-green,BGG
+55,55.23andme.24,blue,BGG
+58,58.23andme.26,blue,BGG
+60,60.23andme.27,hazel,Int
+62,62.23andme.29,Brown,Brown
+64,64.23andme.30,Blue,BGG
+63,63.23andme.31,blue,BGG
+40,40.23andme.32,Blue,BGG
+72,72.ftdna-illumina.36,Brown,Brown
+71,71.ftdna-illumina.38,Brown,Brown
+77,77.23andme.40,hazel,Int
+81,81.23andme.42,blue-green,BGG
+74,74.23andme.48,blue,BGG
+99,99.23andme.49,Dark blue,BGG
+118,118.23andme.52,Brown,Brown
+123,123.23andme.54,Blue,BGG
+124,124.23andme.55,Green,BGG
+126,126.23andme.57,Brown,Brown
+141,141.23andme.60,Brown,Brown
+144,144.23andme.61,Brown,Brown
+146,146.23andme.62,brown,Brown
+154,154.23andme.65,Brown,Brown
+158,158.23andme.66,brown,Brown
+159,159.23andme.67,blue-green,BGG
+168,168.23andme.73,hazel,Int
+175,175.23andme.76,Brown,Brown
+177,177.23andme.78,Dark blue,BGG
+664,664.decodeme.306,Brown,Brown
+200,200.23andme.84,blue,BGG
+202,202.23andme.85,blue,BGG
+203,203.ftdna-illumina.87,brown,Brown
+204,204.23andme.88,Blue-green,BGG
+207,207.23andme.89,Blue,BGG
+215,215.23andme.91,blue,BGG
+251,251.23andme.97,blue-green,BGG
+253,253.23andme.98,blue-green,BGG
+252,252.23andme.99,blue,BGG
+258,258.23andme.101,Hazel/Light Brown,Int
+262,262.23andme.103,Brown,Brown
+266,266.23andme.104,Dark brown,Brown
+268,268.23andme.106,Brown,Brown
+216,216.23andme.109,Blue,BGG
+276,276.23andme.110,Brown,Brown
+279,279.23andme.113,brown,Brown
+285,285.23andme.118,Brown,Brown
+287,287.23andme.120,Green,BGG
+294,294.23andme.125,Blue,BGG
+295,295.23andme.126,blue-green,BGG
+296,296.23andme.127,hazel,Int
+305,305.23andme.133,hazel,Int
+311,311.23andme.136,Brown,Brown
+322,322.23andme.141,Hazel/Light Brown,Int
+323,323.23andme.142,brown,Brown
+330,330.23andme.146,Dark blue,BGG
+325,325.23andme.149,Hazel,Int
+339,339.ftdna-illumina.150,Brown,Brown
+160,160.23andme.153,blue-green,BGG
+347,347.23andme.157,blue-grey,BGG
+349,349.23andme.160,Green,BGG
+352,352.23andme.161,blue,BGG
+357,357.23andme.163,Brown,Brown
+363,363.23andme.165,blue-grey,BGG
+366,366.23andme.167,brown,Brown
+368,368.23andme.168,Blue-grey; broken amber collarette,BGG
+189,189.23andme.174,brown,Brown
+11,11.23andme.176,brown,Brown
+411,411.23andme.183,blue,BGG
+420,420.23andme.184,hazel,Int
+439,439.23andme.191,Blue-green,BGG
+345,345.23andme.192,blue-grey,BGG
+440,440.23andme.193,Brown,Brown
+463,463.23andme.197,blue-grey,BGG
+441,441.23andme.199,blue,BGG
+468,468.23andme.200,hazel,Int
+35,35.23andme-exome-vcf.210,Hazel,Int
+481,481.23andme.215,brown,Brown
+483,483.23andme.216,Brown,Brown
+488,488.23andme-exome-vcf.219,brown,Brown
+495,495.23andme.223,Green,BGG
+533,533.23andme.242,Blue,BGG
+539,539.23andme.246,brown,Brown
+678,678.23andme.315,Brown,Brown
+542,542.ftdna-illumina.249,blue-grey,BGG
+549,549.23andme.252,brown,Brown
+561,561.23andme.257,Brown,Brown
+563,563.23andme.258,Dark brown,Brown
+572,572.23andme.261,blue-green,BGG
+574,574.23andme.262,Blue,BGG
+579,579.ftdna-illumina.264,blue,BGG
+187,187.23andme.267,Brown,Brown
+583,583.23andme.268,Blue-grey,BGG
+589,589.23andme.273,Brown,Brown
+503,503.23andme.274,Blue,BGG
+682,682.23andme.317,Blue,BGG
+595,595.23andme.277,Hazel,Int
+602,602.23andme.279,Blue,BGG
+607,607.23andme.281,Blue,BGG
+637,637.23andme.293,Green,BGG
+644,644.23andme.295,Brown,Brown
+645,645.23andme.296,Blue-green,BGG
+646,646.23andme.297,Blue-grey,BGG
+650,650.23andme.299,Hazel,Int
+651,651.23andme.300,Blue,BGG
+610,610.23andme.301,Brown,Brown
+580,580.23andme.265,Brown,Brown
+90,90.23andme.318,hazel,Int
+684,684.23andme.319,Blue-grey; broken amber collarette,BGG
+688,688.23andme.320,Dark brown,Brown
+693,693.23andme.321,Hazel,Int
+717,717.23andme.333,Blue-grey,BGG
+721,721.23andme.336,Blue-grey; broken amber collarette,BGG
+722,722.23andme.337,Green-brown,Int
+734,734.ftdna-illumina.343,Blue,BGG
+745,745.23andme.352,Brown,Brown
+748,748.23andme.354,Brown,Brown
+749,749.23andme.355,Blue,BGG
+754,754.23andme.356,Brown,Brown
+2576,2576.23andme.1632,Brown,Brown
+761,761.23andme.360,Hazel,Int
+762,762.23andme.361,Brown,Brown
+775,775.23andme.365,Blue,BGG
+776,776.23andme.366,Blue,BGG
+777,777.23andme.367,Brown,Brown
+779,779.23andme.369,Blue-grey,BGG
+782,782.23andme.371,Green,BGG
+781,781.23andme.372,Hazel,Int
+792,792.23andme.377,Brown,Brown
+763,763.23andme.382,Brown,Brown
+758,758.23andme.387,Blue,BGG
+806,806.23andme.388,Blue-green,BGG
+808,808.23andme.390,Dark blue,BGG
+811,811.23andme.393,Blue-green,BGG
+813,813.23andme.394,Brown,Brown
+816,816.23andme.395,Green-brown,Int
+1020,1020.23andme.507,Blue,BGG
+1022,1022.23andme.508,Blue-green,BGG
+1026,1026.23andme.511,Hazel/light brown,Int
+1627,1627.23andme.925,Brown,Brown
+1028,1028.23andme.514,Blue,BGG
+2616,2616.23andme.1634,Brown,Brown
+1034,1034.23andme.517,Brown,Brown
+1036,1036.23andme.519,Brown,Brown
+1039,1039.23andme.521,Blue,BGG
+1059,1059.23andme.535,Hazel,Int
+1066,1066.23andme.543,Blue-grey; broken amber collarette,BGG
+1075,1075.23andme.550,Blue-green,BGG
+1077,1077.23andme.551,Blue-grey,BGG
+1081,1081.23andme.556,Brown,Brown
+1085,1085.23andme.557,Blue-green,BGG
+1103,1103.23andme.565,Blue,BGG
+1125,1125.23andme.582,Brown,Brown
+1114,1114.23andme.574,Brown,Brown
+1033,1033.23andme.567,Brown,Brown
+1121,1121.23andme.578,Hazel/light brown,Int
+2628,2628.23andme.1644,Dark brown,Brown
+1163,1163.23andme.603,Brown,Brown
+1177,1177.23andme.613,Blue-green,BGG
+1165,1165.23andme.602,Green,BGG
+1173,1173.23andme.609,Dark brown,Brown
+1133,1133.23andme.587,Blue,BGG
+2629,2629.23andme.1647,Green,BGG
+1445,1445.23andme.787,Green,BGG
+2633,2633.23andme.1650,Blue,BGG
+1147,1147.23andme.598,Blue,BGG
+1134,1134.23andme.588,Blue-green,BGG
+1142,1142.23andme.593,Brown,Brown
+1131,1131.23andme.585,Blue,BGG
+1129,1129.23andme.583,Blue,BGG
+1235,1235.23andme.654,Brown,Brown
+2887,2887.23andme.1829,Dark brown,Brown
+1190,1190.23andme.626,Green,BGG
+1269,1269.23andme.673,Light-mixed green,BGG
+1275,1275.23andme.676,Dark blue,BGG
+1281,1281.23andme.682,Brown,Brown
+1325,1325.23andme.706,Green,BGG
+1312,1312.23andme.720,Hazel,Int
+1375,1375.23andme.726,Dark brown,Brown
+1379,1379.23andme.730,Blue-grey; broken amber collarette,BGG
+1393,1393.ancestry.743,Blue,BGG
+1403,1403.23andme.751,Brown,Brown
+1420,1420.23andme.766,Brown,Brown
+1424,1424.23andme.769,Blue-grey,BGG
+1459,1459.23andme.799,Blue,BGG
+1466,1466.23andme.804,Brown,Brown
+1467,1467.23andme.805,Brown,Brown
+1470,1470.23andme.807,Brown,Brown
+1491,1491.ftdna-illumina.810,Green,BGG
+1494,1494.23andme.814,Blue,BGG
+1503,1503.23andme.821,Blue,BGG
+1514,1514.23andme.832,Blue,BGG
+1092,1092.ftdna-illumina.835,Blue,BGG
+1519,1519.ancestry.836,Brown,Brown
+1532,1532.23andme.844,Dark brown,Brown
+1531,1531.23andme.843,Hazel,Int
+1537,1537.23andme.846,Brown,Brown
+2894,2894.ancestry.1833,Dark blue,BGG
+1600,1600.23andme.901,Blue,BGG
+2645,2645.23andme.1662,Brown,Brown
+2648,2648.23andme.1664,Hazel,Int
+2651,2651.ftdna-illumina.1668,Blue,BGG
+2660,2660.23andme.1675,Blue,BGG
+2662,2662.23andme.1677,Brown,Brown
+2665,2665.ancestry.1681,Brown,Brown
+1964,1964.23andme.1683,Blue,BGG
+2675,2675.23andme.1693,Dark brown,Brown
+2681,2681.23andme.1699,Blue with yellow parts,BGG
+2694,2694.ftdna-illumina.1708,Brown,Brown
+2687,2687.23andme.1702,Hazel,Int
+9839,9839.23andme.8097,Brown,Brown
+2702,2702.23andme.1712,Brown,Brown
+2707,2707.23andme.1717,Hazel,Int
+1647,1647.ancestry.939,Green,BGG
+2700,2700.23andme.1710,Hazel,Int
+2759,2759.23andme.1762,Brown,Brown
+2764,2764.23andme.1828,Blue-green,BGG
+2907,2907.23andme.1846,Brown,Brown
+1668,1668.23andme.954,Brown,Brown
+1678,1678.23andme.962,Brown,Brown
+1717,1717.23andme.992,Hazel,Int
+1735,1735.ftdna-illumina.1003,Brown,Brown
+2715,2715.ancestry.1725,Blue,BGG
+1759,1759.23andme.1022,Brown,Brown
+1764,1764.23andme.1025,Blue,BGG
+4297,4297.ancestry.3045,Blue-grey,BGG
+1802,1802.23andme.1052,Blue,BGG
+1825,1825.23andme.1070,Brown,Brown
+2334,2334.23andme.1727,Blue-green,BGG
+8274,8274.ancestry.6608,Brown,Brown
+1833,1833.23andme.1081,Blue,BGG
+1875,1875.23andme.1113,Green,BGG
+1877,1877.23andme.1115,Brown,Brown
+1879,1879.23andme.1117,Dark brown,Brown
+1183,1183.ftdna-illumina.1126,Brown,Brown
+1963,1963.23andme.1153,Brown,Brown
+1968,1968.23andme.1156,Blue,BGG
+1970,1970.23andme.1158,Blue,BGG
+1980,1980.23andme.1166,Hazel,Int
+1975,1975.23andme.1162,Green-brown,Int
+1987,1987.23andme.1174,Brown,Brown
+1991,1991.23andme.1177,Brown,Brown
+1996,1996.23andme.1182,Brown,Brown
+2000,2000.23andme.1184,Green-gray,BGG
+2004,2004.23andme.1189,Blue-grey; broken amber collarette,BGG
+5249,5249.ancestry.3760,Blue-grey; broken amber collarette,BGG
+2720,2720.23andme.1729,Hazel,Int
+2018,2018.23andme.1200,Brown,Brown
+2023,2023.23andme.1203,Green,BGG
+2024,2024.23andme.1204,Blue,BGG
+1952,1952.23andme.1206,Brown,Brown
+2030,2030.23andme.1212,Dark blue,BGG
+2035,2035.23andme.1217,Dark brown,Brown
+2053,2053.ftdna-illumina.1230,Brown,Brown
+2056,2056.23andme.1235,Blue,BGG
+2070,2070.23andme.1245,Dark brown,Brown
+2075,2075.23andme.1250,Dark brown,Brown
+2077,2077.23andme.1252,Brown,Brown
+2080,2080.23andme.1256,Blue-green,BGG
+2099,2099.23andme.1272,Gray-blue,BGG
+2101,2101.ancestry.1283,Blue,BGG
+2116,2116.23andme.1284,Blue-grey,BGG
+2133,2133.23andme.1299,Brown,Brown
+2153,2153.23andme.1306,Brown,Brown
+2158,2158.23andme.1310,Light-mixed green,BGG
+2166,2166.23andme.1316,Blue,BGG
+2177,2177.23andme.1327,Blue,BGG
+2183,2183.23andme.1330,Hazel,Int
+1588,1588.23andme.1335,Blue,BGG
+2199,2199.23andme.1344,Green,BGG
+2202,2202.23andme.1346,Green,BGG
+2203,2203.ancestry.1347,Blue,BGG
+2207,2207.ancestry.1350,Hazel,Int
+2212,2212.23andme.1359,Green-gray,BGG
+2217,2217.23andme.1364,Brown,Brown
+2725,2725.23andme.1732,Brown,Brown
+1472,1472.23andme.1376,Brown,Brown
+2236,2236.23andme.1377,Brown,Brown
+2238,2238.23andme.1378,Blue,BGG
+2239,2239.23andme.1380,Brown,Brown
+2249,2249.23andme.1384,Blue-green,BGG
+2274,2274.23andme.1390,Blue-grey,BGG
+2275,2275.23andme.1391,Green,BGG
+2276,2276.23andme.1393,Brown,Brown
+2278,2278.23andme.1394,Blue-grey,BGG
+2279,2279.23andme.1395,Dark brown,Brown
+2287,2287.23andme.1400,Brown,Brown
+2288,2288.23andme.1401,Hazel,Int
+2291,2291.23andme.1402,Blue-grey; broken amber collarette,BGG
+2297,2297.23andme.1408,Hazel,Int
+2322,2322.23andme.1430,Green-gray,BGG
+2304,2304.23andme.1415,Blue,BGG
+2307,2307.23andme.1417,Blue-green,BGG
+2316,2316.23andme.1425,Blue-grey,BGG
+2314,2314.23andme.1424,Hazel,Int
+2339,2339.23andme.1448,Blue-grey,BGG
+2350,2350.23andme.1454,Blue-green,BGG
+2358,2358.ancestry.1458,Brown,Brown
+2361,2361.23andme.1460,Green,BGG
+2362,2362.23andme.1461,Green,BGG
+2371,2371.23andme.1469,Brown,Brown
+2398,2398.23andme.1490,Green,BGG
+2367,2367.23andme.1473,Blue-green,BGG
+2393,2393.ancestry.1486,Green,BGG
+210,210.23andme.1492,Blue,BGG
+5359,5359.ancestry.3871,Brown,Brown
+2402,2402.23andme.1495,Brown,Brown
+2412,2412.23andme.1503,Blue-grey,BGG
+898,898.23andme.441,Blue-grey,BGG
+909,909.23andme.446,Blue,BGG
+920,920.23andme.458,Brown,Brown
+922,922.23andme.460,Brown,Brown
+994,994.ancestry.494,Brown,Brown
+3050,3050.ancestry.1958,Brown,Brown
+512,512.23andme.233,Blue,BGG
+1078,1078.ancestry.553,Brown,Brown
+1196,1196.23andme.631,Green,BGG
+1209,1209.23andme.638,Brown,Brown
+862,862.23andme.644,Brown,Brown
+1233,1233.23andme.652,Brown,Brown
+2797,2797.23andme.1771,Blue,BGG
+2826,2826.23andme.1787,Dark blue,BGG
+2839,2839.ftdna-illumina.1798,Dark brown,Brown
+2841,2841.23andme.1799,Green-brown,Int
+1221,1221.23andme.648,Green-brown,Int
+1566,1566.23andme.876,Brown,Brown
+2729,2729.ancestry.1736,Brown,Brown
+2732,2732.ftdna-illumina.1739,Brown,Brown
+2739,2739.23andme.1744,Blue-green,BGG
+2748,2748.ancestry.1752,Blue-grey,BGG
+6599,6599.ancestry.5002,Hazel (brown/green),Int
+2421,2421.23andme.1509,Brown,Brown
+2453,2453.23andme.1517,Hazel,Int
+2454,2454.23andme.1518,Blue,BGG
+2455,2455.23andme.1519,Brown,Brown
+2457,2457.23andme.1521,Hazel,Int
+2498,2498.23andme.1529,Blue-grey,BGG
+2512,2512.23andme.1541,Green-brown,Int
+2513,2513.23andme.1542,Brown,Brown
+2858,2858.23andme.1816,Green-brown,Int
+2881,2881.23andme.1824,Green,BGG
+2456,2456.23andme.1553,Blue,BGG
+2535,2535.23andme.1554,Dark brown,Brown
+2901,2901.23andme.1841,Brown,Brown
+2542,2542.23andme.1562,Hazel,Int
+2856,2856.23andme-exome-vcf.1814,Dark brown,Brown
+2886,2886.23andme.1827,Light-mixed green,BGG
+2890,2890.23andme.1831,Blue-green,BGG
+2920,2920.23andme.1857,Blue,BGG
+2980,2980.23andme.1906,Green-gray,BGG
+2949,2949.23andme.1881,Brown,Brown
+2958,2958.23andme.1887,Blue,BGG
+2960,2960.23andme.1889,Brown,Brown
+2966,2966.23andme.1895,Hazel/light brown,Int
+2874,2874.23andme.1893,Gray-blue,BGG
+10195,10195.23andme.9040,"Blue, grey, green, changing",BGG
+2998,2998.23andme.1920,Brown,Brown
+9413,9413.ancestry.7715,Blue-grey with central heterochromia,BGG
+3018,3018.23andme.1937,Green,BGG
+3015,3015.ancestry.1938,Brown,Brown
+3034,3034.23andme.1950,Hazel,Int
+3043,3043.23andme-exome-vcf.1954,Brown,Brown
+3046,3046.23andme.1955,Brown,Brown
+3048,3048.23andme.1956,Brown,Brown
+3069,3069.23andme.1974,Brown,Brown
+3078,3078.23andme.1981,Blue,BGG
+3085,3085.23andme.1987,Brown,Brown
+3087,3087.ftdna-illumina.1988,Brown,Brown
+3090,3090.23andme.1989,Hazel,Int
+3097,3097.ftdna-illumina.1993,Blue,BGG
+3104,3104.23andme.1999,Blue-green,BGG
+3111,3111.23andme.2005,Hazel,Int
+3113,3113.23andme.2006,Brown,Brown
+3122,3122.23andme.2015,Brown,Brown
+3124,3124.ancestry.2016,Brown,Brown
+3129,3129.23andme.2018,Hazel,Int
+3130,3130.23andme.2019,Hazel/light brown,Int
+3137,3137.23andme.2026,Hazel,Int
+3108,3108.23andme.2027,Brown,Brown
+3140,3140.23andme.2029,Brown,Brown
+3145,3145.23andme.2033,Hazel/light brown,Int
+3160,3160.ancestry.2045,Hazel,Int
+3167,3167.23andme.2050,Hazel,Int
+4667,4667.ftdna-illumina.3277,Brown,Brown
+5098,5098.23andme.3615,Blue-green,BGG
+3176,3176.23andme.2061,Green,BGG
+3179,3179.23andme.2064,Blue,BGG
+3192,3192.23andme.2073,Brown,Brown
+3193,3193.23andme.2076,Blue-grey; broken amber collarette,BGG
+3196,3196.23andme.2078,Dark brown,Brown
+3197,3197.23andme.2079,Hazel/light brown,Int
+3199,3199.ftdna-illumina.2080,Brown,Brown
+3206,3206.23andme.2086,Blue-green,BGG
+3216,3216.23andme.2094,Blue-green,BGG
+3224,3224.ftdna-illumina.2098,Green,BGG
+3234,3234.23andme.2105,Green,BGG
+3244,3244.23andme.2111,Green,BGG
+3248,3248.23andme.2113,Green,BGG
+3265,3265.23andme.2123,Gray-blue,BGG
+3267,3267.ftdna-illumina.2125,Brown,Brown
+3275,3275.23andme.2129,Blue-grey,BGG
+3280,3280.23andme.2134,Hazel,Int
+3289,3289.23andme.2139,Blue with yellow parts,BGG
+3301,3301.ancestry.2147,Dark brown,Brown
+3304,3304.23andme.2148,Brown,Brown
+3321,3321.23andme.2162,Green-gray,BGG
+3324,3324.23andme.2165,Blue,BGG
+3326,3326.23andme.2167,Green,BGG
+3335,3335.23andme.2171,Dark brown,Brown
+3341,3341.23andme.2175,Blue with yellow parts,BGG
+3343,3343.23andme.2176,Hazel,Int
+3344,3344.23andme.2177,Blue,BGG
+5362,5362.ftdna-illumina.3875,Blue-grey,BGG
+3357,3357.ftdna-illumina.2180,Brown,Brown
+3364,3364.23andme.2182,Brown,Brown
+3340,3340.23andme.2185,Brown,Brown
+3370,3370.23andme.2187,Hazel,Int
+3375,3375.23andme.2192,Brown,Brown
+3381,3381.ftdna-illumina.2197,Hazel (brown/green),Int
+3393,3393.ancestry.2206,Brown,Brown
+3394,3394.23andme.2207,Brown,Brown
+3395,3395.23andme.2208,Brown,Brown
+3397,3397.ftdna-illumina.2212,Dark brown,Brown
+3399,3399.23andme.2217,Green-brown,Int
+3417,3417.23andme.2231,Green-gray,BGG
+3422,3422.23andme.2234,Green,BGG
+3423,3423.23andme.2235,Hazel,Int
+3449,3449.23andme.2249,Dark blue,BGG
+3454,3454.23andme.2250,Hazel,Int
+3468,3468.23andme.2257,Brown,Brown
+3478,3478.23andme.2262,Hazel,Int
+3486,3486.23andme.2266,Dark brown,Brown
+3494,3494.23andme.2270,Hazel,Int
+3499,3499.23andme.2273,Brown,Brown
+3532,3532.23andme.2305,Green,BGG
+3531,3531.23andme.2303,Blue,BGG
+991,991.ftdna-illumina.2308,Blue-grey,BGG
+3543,3543.23andme.2313,Blue-grey; broken amber collarette,BGG
+298,298.23andme.2316,Brown,Brown
+3569,3569.23andme.2336,Blue-green,BGG
+3571,3571.ftdna-illumina.2340,Hazel/light brown,Int
+3581,3581.23andme.2348,Hazel/light brown,Int
+3582,3582.23andme.2349,Hazel,Int
+3595,3595.ftdna-illumina.2358,Blue-grey,BGG
+3598,3598.23andme.2360,Hazel,Int
+3605,3605.23andme.2365,Green-brown,Int
+5099,5099.ancestry.3616,Hazel,Int
+3611,3611.23andme.2372,Blue,BGG
+3615,3615.23andme.2373,Brown,Brown
+3622,3622.23andme.2379,Brown,Brown
+3624,3624.ancestry.2381,Blue,BGG
+3625,3625.23andme.2382,Brown,Brown
+3642,3642.23andme.2394,Blue,BGG
+3643,3643.23andme.2395,Blue-green,BGG
+3644,3644.23andme.2396,Blue,BGG
+3655,3655.23andme.2403,Green,BGG
+3660,3660.ancestry.2406,Blue with yellow parts,BGG
+3688,3688.ancestry.2433,Green,BGG
+3682,3682.23andme.2429,Blue-grey,BGG
+3706,3706.23andme.2446,Blue-green,BGG
+3713,3713.23andme-exome-vcf.2458,Blue,BGG
+3724,3724.23andme.2463,Dark blue,BGG
+3728,3728.23andme.2466,Brown,Brown
+3733,3733.ancestry.2470,Blue-grey,BGG
+3767,3767.ancestry.2494,Hazel,Int
+3782,3782.ftdna-illumina.2508,Blue,BGG
+3786,3786.23andme.2513,Blue,BGG
+3788,3788.23andme.2514,Blue-green,BGG
+3806,3806.23andme.2528,Blue-green,BGG
+3813,3813.ftdna-illumina.2536,Blue-grey,BGG
+10097,10097.ancestry.8358,Blue,BGG
+3904,3904.23andme.2609,Dark brown,Brown
+3886,3886.ancestry.2593,Light-mixed green,BGG
+3971,3971.ancestry.2666,Blue-grey,BGG
+3964,3964.23andme.2661,Dark brown,Brown
+3967,3967.23andme.2663,Gray-blue,BGG
+3954,3954.23andme.2652,Blue grey,BGG
+3865,3865.23andme.2575,Blue-grey,BGG
+3834,3834.23andme.2551,Blue-green,BGG
+3833,3833.ancestry.2550,Green,BGG
+3942,3942.23andme.2642,Blue-grey,BGG
+3934,3934.23andme.2634,Brown,Brown
+500,500.23andme.2637,Blue-grey,BGG
+3922,3922.23andme.2622,Dark brown,Brown
+3930,3930.23andme.2629,Blue-green,BGG
+3921,3921.23andme.2621,Dark brown,Brown
+3913,3913.23andme.2617,Dark brown,Brown
+4042,4042.ancestry.2730,Hazel/light brown,Int
+4018,4018.23andme.2709,Brown,Brown
+4009,4009.23andme.2701,Blue,BGG
+3993,3993.ftdna-illumina.2687,Hazel,Int
+4048,4048.23andme.2734,Brown,Brown
+4034,4034.23andme.2725,Brown,Brown
+4012,4012.23andme.2703,Brown,Brown
+4010,4010.23andme.2702,Brown,Brown
+4006,4006.23andme.2699,Brown,Brown
+4055,4055.23andme.2740,Blue,BGG
+4095,4095.23andme.2771,Hazel,Int
+4080,4080.23andme.2764,Blue,BGG
+4064,4064.ancestry.2752,Green,BGG
+4056,4056.23andme.2741,Blue-grey,BGG
+4057,4057.23andme.2742,Hazel,Int
+4030,4030.23andme.2719,Hazel,Int
+3979,3979.23andme.2674,Brown,Brown
+3853,3853.23andme.2654,Brown,Brown
+3931,3931.23andme.2630,Dark brown,Brown
+3908,3908.23andme.2613,Blue,BGG
+3882,3882.23andme.2590,Blue,BGG
+3883,3883.23andme.2589,Dark brown,Brown
+3881,3881.23andme.2588,Green,BGG
+4147,4147.23andme.2811,Hazel,Int
+4143,4143.23andme.2809,Blue,BGG
+4127,4127.23andme.2793,Dark brown,Brown
+4173,4173.23andme.2831,Blue-grey,BGG
+4159,4159.23andme.2820,Blue-grey,BGG
+4671,4671.23andme.3274,Brown,Brown
+4178,4178.23andme.2835,Hazel,Int
+4672,4672.23andme.3275,Brown,Brown
+3821,3821.23andme.2539,Green,BGG
+4194,4194.23andme.2847,Hazel/light brown,Int
+4204,4204.ancestry.2855,Blue,BGG
+4212,4212.23andme.2859,Blue,BGG
+4213,4213.ftdna-illumina.2860,Blue,BGG
+4215,4215.23andme.2861,Blue with yellow parts,BGG
+4224,4224.ancestry.2869,Blue-green,BGG
+4235,4235.ancestry.2876,Green,BGG
+4241,4241.23andme.2880,Dark brown,Brown
+5103,5103.ancestry.3619,Blue-green,BGG
+4245,4245.23andme.2883,Hazel,Int
+4248,4248.23andme.2886,Hazel,Int
+4251,4251.23andme.2887,Green-brown,Int
+4258,4258.23andme.2892,Green,BGG
+4271,4271.decodeme.2897,Hazel,Int
+4290,4290.23andme.2910,Brown,Brown
+4482,4482.23andme.3079,Hazel,Int
+4676,4676.23andme.3279,Blue-green,BGG
+4320,4320.23andme.2927,Brown,Brown
+4360,4360.ftdna-illumina.2933,Blue grey,BGG
+4490,4490.23andme.3086,Dark brown,Brown
+4179,4179.23andme.2837,Blue grey,BGG
+4192,4192.23andme.2845,Blue,BGG
+4176,4176.ancestry.2834,Brown,Brown
+4200,4200.23andme.2852,Blue,BGG
+4230,4230.23andme.2874,Brown,Brown
+9849,9849.ancestry.8105,Blue-grey,BGG
+4346,4346.23andme.2918,Green-brown,Int
+4343,4343.23andme.2916,Hazel,Int
+3766,3766.23andme.2493,Brown,Brown
+3780,3780.23andme.2506,Brown,Brown
+4356,4356.23andme.2928,Hazel,Int
+4359,4359.23andme.2931,Dark blue,BGG
+4463,4463.23andme.3057,Blue-green,BGG
+4569,4569.23andme.3154,Hazel/light brown,Int
+4381,4381.23andme.2990,Brown,Brown
+4399,4399.23andme.2999,Green,BGG
+4411,4411.23andme.3009,Hazel (brown/green),Int
+1018,1018.ftdna-illumina.3018,Brown,Brown
+925,925.23andme.3022,Blue,BGG
+1050,1050.ftdna-illumina.3024,Hazel/light brown,Int
+1111,1111.ftdna-illumina.3026,Blue-grey,BGG
+4428,4428.23andme.3034,Brown,Brown
+4430,4430.ancestry.3036,Gray-blue,BGG
+4499,4499.23andme.3095,Blue,BGG
+4502,4502.ancestry.3098,Brown,Brown
+4507,4507.23andme.3104,Brown,Brown
+4538,4538.ancestry.3132,Blue with yellow parts,BGG
+4539,4539.23andme.3133,Hazel,Int
+4568,4568.ancestry.3153,Blue,BGG
+4438,4438.23andme.3042,Blue-green,BGG
+4547,4547.23andme.3141,Hazel,Int
+4549,4549.23andme.3143,Hazel,Int
+5107,5107.ancestry.3622,Hazel,Int
+5723,5723.23andme.4199,Brown,Brown
+4577,4577.23andme.3161,Brown,Brown
+4587,4587.23andme.3188,Green,BGG
+4594,4594.23andme.3193,Blue,BGG
+4597,4597.ancestry.3196,Brown,Brown
+4598,4598.ancestry.3197,Brown,Brown
+4602,4602.ancestry.3204,Hazel/light brown,Int
+4604,4604.ancestry.3206,Brown,Brown
+4605,4605.23andme.3207,Brown,Brown
+4613,4613.ftdna-illumina.3216,Blue,BGG
+4621,4621.23andme.3222,Blue-green,BGG
+4580,4580.23andme.3227,Brown,Brown
+4679,4679.23andme.3289,Blue-green,BGG
+4680,4680.23andme.3290,Brown,Brown
+2074,2074.23andme.3291,Dark blue,BGG
+4754,4754.ftdna-illumina.3344,Hazel/light brown,Int
+4756,4756.23andme.3345,Blue,BGG
+4758,4758.23andme.3347,Dark brown,Brown
+1426,1426.ftdna-illumina.3348,Green,BGG
+4732,4732.ancestry.3349,Green,BGG
+5257,5257.23andme.3765,Blue,BGG
+5258,5258.23andme-exome-vcf.3767,Dark blue,BGG
+7610,7610.23andme.5957,Brown,Brown
+4632,4632.23andme.3231,Brown,Brown
+4644,4644.ftdna-illumina.3241,Brown,Brown
+4646,4646.23andme.3244,Brown,Brown
+4694,4694.23andme.3303,Green,BGG
+4695,4695.23andme.3304,Dark blue,BGG
+4648,4648.23andme.3252,Blue,BGG
+4652,4652.ftdna-illumina.3260,Green-brown,Int
+4712,4712.23andme.3311,Light-mixed green,BGG
+4715,4715.23andme.3315,Brown,Brown
+4796,4796.ancestry.3380,Dark brown,Brown
+5155,5155.23andme.3664,Hazel,Int
+5168,5168.23andme.3676,Green-hazel,Int
+5180,5180.23andme.3689,Green-hazel,Int
+5195,5195.23andme.3704,Brown,Brown
+5199,5199.ancestry.3708,Blue,BGG
+4797,4797.23andme.3381,Hazel,Int
+4801,4801.23andme.3385,Blue,BGG
+4814,4814.23andme.3394,Brown,Brown
+5146,5146.23andme.3654,Brown,Brown
+5154,5154.ancestry.3663,Green,BGG
+4825,4825.23andme.3403,Blue-green,BGG
+4833,4833.23andme.3408,Brown,Brown
+4834,4834.ancestry.3409,Green-hazel,Int
+4851,4851.23andme.3419,Dark brown,Brown
+4832,4832.ftdna-illumina.3407,Blue-grey; broken amber collarette,BGG
+4837,4837.23andme.3420,Brown,Brown
+4859,4859.23andme.3421,Brown,Brown
+4879,4879.23andme.3436,Light-mixed green,BGG
+4880,4880.ftdna-illumina.3437,Brown,Brown
+16,16.23andme.3446,blue-grey,BGG
+4910,4910.ancestry.3463,Blue-grey; broken amber collarette,BGG
+5267,5267.ancestry.3777,Green,BGG
+5288,5288.23andme.3794,Brown,Brown
+5302,5302.23andme.3808,Brown,Brown
+4917,4917.ftdna-illumina.3468,Blue,BGG
+5351,5351.ancestry.3892,Blue-grey,BGG
+4928,4928.ancestry.3475,Blue,BGG
+4932,4932.23andme.3478,Hazel,Int
+4935,4935.23andme.3479,Green-gray,BGG
+7098,7098.23andme.5501,Hazel,Int
+4943,4943.23andme.3490,Dark brown,Brown
+4954,4954.ancestry.3497,Blue,BGG
+4912,4912.genes-for-good.3486,Green-brown,Int
+4962,4962.23andme.3503,Blue,BGG
+4979,4979.genes-for-good.3516,Hazel,Int
+5167,5167.23andme.3675,Brown,Brown
+5170,5170.ancestry.3678,Green,BGG
+5176,5176.ancestry.3683,Blue,BGG
+5223,5223.23andme.3735,Blue,BGG
+5213,5213.genes-for-good.3740,Blue,BGG
+5274,5274.23andme.3783,Hazel,Int
+5326,5326.23andme.3834,Blue-grey,BGG
+5332,5332.23andme.3844,Brown,Brown
+7099,7099.ancestry.5502,Hazel,Int
+4983,4983.23andme.3521,Blue,BGG
+4985,4985.23andme.3522,Green-hazel,Int
+4990,4990.23andme.3529,Brown,Brown
+4996,4996.ancestry.3535,Green-gray,BGG
+4998,4998.23andme.3538,Brown,Brown
+5024,5024.ftdna-illumina.3560,Blue-grey,BGG
+5027,5027.ancestry.3561,Blue,BGG
+5034,5034.ancestry.3566,Hazel,Int
+4842,4842.genes-for-good.3414,Dark blue,BGG
+5041,5041.ancestry.3570,Hazel,Int
+5048,5048.23andme.3577,Blue,BGG
+5049,5049.23andme.3578,Blue with yellow parts,BGG
+5164,5164.23andme.3672,Green-hazel,Int
+5073,5073.23andme.3594,Green,BGG
+5237,5237.ftdna-illumina.3752,Hazel,Int
+5233,5233.23andme.3747,Blue,BGG
+5235,5235.23andme.3749,Blue-grey,BGG
+5397,5397.23andme.3910,Blue-grey,BGG
+5408,5408.23andme.3919,Brown,Brown
+5460,5460.23andme.3958,Brown,Brown
+5456,5456.23andme.3955,Hazel,Int
+5475,5475.23andme.3971,Blue-green,BGG
+5478,5478.23andme.3973,Blue-grey,BGG
+5480,5480.genes-for-good.3975,Hazel,Int
+5487,5487.23andme.3981,Blue,BGG
+5485,5485.ancestry.3982,Brown,Brown
+5494,5494.ancestry.3990,Blue,BGG
+5342,5342.23andme.3856,Hazel,Int
+949,949.23andme.3858,Blue-grey; broken amber collarette,BGG
+5185,5185.23andme.3866,Brown,Brown
+5425,5425.23andme.3932,Blue with yellow parts,BGG
+5432,5432.23andme.3935,Blue,BGG
+5447,5447.23andme.3946,Blue,BGG
+5495,5495.23andme.3991,Blue,BGG
+5501,5501.ancestry.3995,Blue,BGG
+5506,5506.ancestry.4000,Brown,Brown
+5728,5728.ancestry.4204,Hazel,Int
+5514,5514.ftdna-illumina.4005,Green,BGG
+5768,5768.ancestry.4242,Brown,Brown
+5820,5820.23andme.4298,"Blue, grey, green, changing",BGG
+5830,5830.23andme.4308,Brown,Brown
+5833,5833.23andme.4311,Brown,Brown
+6731,6731.23andme.5126,Blue-grey,BGG
+5850,5850.23andme.4328,Gray-blue,BGG
+5853,5853.23andme.4332,Green-hazel,Int
+5515,5515.23andme.4007,Brown,Brown
+5743,5743.23andme.4219,Green,BGG
+5792,5792.ftdna-illumina.4268,Blue-grey,BGG
+10948,10948.23andme.9051,Brown-amber,Int
+5800,5800.23andme.4277,Green,BGG
+5803,5803.23andme.4280,Brown,Brown
+5810,5810.ftdna-illumina.4286,Brown,Brown
+5529,5529.23andme.4021,Hazel,Int
+5531,5531.ancestry.4022,Brown,Brown
+5536,5536.ancestry.4031,Brown,Brown
+5540,5540.23andme.4034,Dark blue,BGG
+5573,5573.ftdna-illumina.4062,"blue, grey, green, changing",BGG
+5628,5628.ancestry.4118,Gray-blue,BGG
+5629,5629.23andme.4119,Blue-grey,BGG
+5641,5641.ftdna-illumina.4181,Brown,Brown
+5557,5557.23andme.4046,Brown,Brown
+5568,5568.23andme.4058,Blue-grey,BGG
+5581,5581.ancestry.4072,Hazel/light brown,Int
+5582,5582.23andme.4073,Blue-grey,BGG
+4735,4735.genes-for-good.4081,Brown,Brown
+5612,5612.23andme.4103,Light-mixed green,BGG
+5613,5613.23andme.4105,Green-gray,BGG
+2969,2969.23andme.4132,Green,BGG
+5745,5745.23andme.4221,Brown,Brown
+5859,5859.ftdna-illumina.4336,Blue grey,BGG
+5659,5659.ancestry.4143,Blue-green,BGG
+7613,7613.ancestry.5960,Hazel/light brown,Int
+5666,5666.ftdna-illumina.4153,Blue,BGG
+5672,5672.genes-for-good.4157,Gray-blue,BGG
+5675,5675.23andme.4159,Brown,Brown
+5683,5683.23andme.4165,Hazel,Int
+5701,5701.23andme.4180,Blue-grey,BGG
+5709,5709.ancestry.4184,Blue-green,BGG
+6115,6115.23andme.4624,Hazel,Int
+5775,5775.ancestry.4250,Blue,BGG
+5821,5821.23andme.4300,Blue,BGG
+5826,5826.ancestry.4304,Brown,Brown
+5867,5867.ancestry.4344,Dark brown,Brown
+5868,5868.23andme.4346,Blue-green,BGG
+5881,5881.23andme.4355,Brown,Brown
+6117,6117.ancestry.4637,Brown,Brown
+6120,6120.23andme.4640,Brown,Brown
+6124,6124.23andme.4643,Brown,Brown
+6127,6127.ancestry.4646,Blue-green,BGG
+6131,6131.ancestry.4649,Brown,Brown
+4738,4738.ftdna-illumina.4655,Green,BGG
+5884,5884.23andme.4358,Blue,BGG
+5888,5888.ftdna-illumina.4361,Gray-blue,BGG
+5895,5895.ancestry.4366,Blue-green,BGG
+5900,5900.23andme.4370,Blue,BGG
+5221,5221.ancestry.4376,Green,BGG
+6191,6191.ftdna-illumina.4695,Gray-blue,BGG
+5912,5912.ftdna-illumina.4381,Brown,Brown
+5924,5924.23andme.4389,Dark brown,Brown
+6187,6187.23andme.4690,Blue,BGG
+6184,6184.ftdna-illumina.4689,Hazel,Int
+6189,6189.ancestry.4692,Green-hazel,Int
+6192,6192.23andme.4696,Hazel/light brown,Int
+6296,6296.ancestry.4789,Blue,BGG
+6206,6206.23andme.4711,Blue-grey,BGG
+6228,6228.ftdna-illumina.4730,Green-gray,BGG
+6617,6617.23andme.5019,Green,BGG
+7103,7103.ancestry.5506,Blue-green-grey,BGG
+6633,6633.ancestry.5035,Hazel (brown/green),Int
+6634,6634.ancestry.5036,Green,BGG
+6020,6020.ancestry.4551,Brown,Brown
+6085,6085.ancestry.4593,Brown,Brown
+6484,6484.23andme.4904,Dark brown,Brown
+6491,6491.23andme.4909,Hazel,Int
+6493,6493.ancestry.4913,Hazel,Int
+6545,6545.23andme.4946,Hazel,Int
+9862,9862.ancestry.8116,Blue-green,BGG
+10106,10106.ancestry.8367,Blue-grey,BGG
+5961,5961.ancestry.4479,Brown,Brown
+5973,5973.23andme.4485,Brown,Brown
+6316,6316.ftdna-illumina.4807,Hazel,Int
+6335,6335.23andme.4824,Blue,BGG
+6341,6341.ancestry.4827,Green-gray,BGG
+6005,6005.23andme.4513,Blue,BGG
+5989,5989.23andme.4503,Dark brown,Brown
+5998,5998.ancestry.4507,Hazel,Int
+6269,6269.23andme.4765,Green-hazel,Int
+6013,6013.23andme.4516,Gray-blue,BGG
+6274,6274.ancestry.4771,Hazel,Int
+6284,6284.23andme.4778,Green-hazel,Int
+6285,6285.23andme.4779,Blue,BGG
+6035,6035.23andme.4529,Gray-blue,BGG
+6042,6042.23andme.4534,Green-hazel,Int
+6045,6045.23andme.4542,Blue,BGG
+6056,6056.ftdna-illumina.4561,Blue-grey,BGG
+6064,6064.23andme.4569,Brown,Brown
+6065,6065.23andme.4571,Brown,Brown
+4941,4941.23andme.4573,Green,BGG
+6074,6074.23andme.4581,Dark brown,Brown
+4304,4304.ancestry.4583,Blue-grey,BGG
+6221,6221.ancestry.4725,Hazel,Int
+6235,6235.ancestry.4734,Brown,Brown
+6238,6238.23andme.4736,Blue-green,BGG
+6249,6249.23andme.4745,Brown,Brown
+6351,6351.23andme.4840,Green,BGG
+6356,6356.23andme.4843,Dark brown,Brown
+6093,6093.ancestry.4598,Dark brown,Brown
+6103,6103.23andme.4608,Hazel,Int
+6105,6105.ancestry.4610,Blue-grey,BGG
+6108,6108.ancestry.4612,Blue,BGG
+6363,6363.23andme.4852,Blue,BGG
+6367,6367.23andme.4857,"Blue, grey, green, changing",BGG
+6373,6373.23andme-exome-vcf.4863,Blue-green,BGG
+6381,6381.23andme.4872,Hazel,Int
+6387,6387.ftdna-illumina.4877,"Blue, grey, green, changing",BGG
+6483,6483.23andme.4903,Green,BGG
+6560,6560.23andme.4957,Hazel,Int
+6573,6573.23andme.4971,Dark brown,Brown
+6589,6589.23andme.4987,Dark brown,Brown
+6583,6583.23andme.4994,Dark brown,Brown
+6667,6667.IYG.5067,Green,BGG
+6677,6677.23andme.5076,Blue-grey; broken amber collarette,BGG
+6690,6690.23andme.5087,Blue,BGG
+6695,6695.ftdna-illumina.5091,Brown,Brown
+6699,6699.23andme.5093,"Blue, grey, green, changing",BGG
+6704,6704.ftdna-illumina.5096,Brown,Brown
+6706,6706.23andme.5099,Hazel,Int
+6721,6721.23andme.5113,Hazel (brown/green),Int
+6733,6733.23andme.5121,Brown,Brown
+6734,6734.23andme.5122,Dark brown,Brown
+6738,6738.ancestry.5127,Brown,Brown
+6758,6758.23andme.5142,Blue,BGG
+6793,6793.23andme.5176,Brown,Brown
+6810,6810.23andme.5194,Hazel (brown/green),Int
+6815,6815.23andme.5202,Hazel/light brown,Int
+6832,6832.23andme.5214,Blue-green,BGG
+6851,6851.23andme.5230,Hazel,Int
+6858,6858.23andme.5234,Brown,Brown
+6859,6859.23andme.5235,Brown,Brown
+6866,6866.23andme.5241,Blue-grey,BGG
+6869,6869.23andme.5242,Brown/black,Brown
+6873,6873.23andme.5244,Brown,Brown
+6874,6874.ftdna-illumina.5245,Brown,Brown
+6879,6879.ftdna-illumina.5250,Brown,Brown
+6885,6885.ftdna-illumina.5254,Hazel (brown/green),Int
+1885,1885.23andme.5281,Brown,Brown
+6908,6908.ftdna-illumina.5291,Brown,Brown
+6910,6910.23andme.5297,Blue-green-grey,BGG
+6923,6923.ftdna-illumina.5315,Brown,Brown
+5633,5633.ancestry.5318,Blue,BGG
+6927,6927.ancestry.5321,Blue-grey; broken amber collarette,BGG
+6934,6934.ancestry.5332,Brown,Brown
+6935,6935.ancestry.5333,Blue-grey,BGG
+6936,6936.23andme.5334,Brown,Brown
+6943,6943.23andme.5343,Blue-green,BGG
+6971,6971.23andme.5370,Green,BGG
+9079,9079.ftdna-illumina.7418,Brown,Brown
+6981,6981.23andme.5377,Dark brown,Brown
+6989,6989.23andme.5383,Blue,BGG
+6993,6993.23andme.5413,Brown,Brown
+4185,4185.23andme.5962,Brown,Brown
+6959,6959.ftdna-illumina.5360,Dark brown,Brown
+7011,7011.ancestry.5423,Blue-grey,BGG
+7014,7014.23andme.5426,Blue-grey,BGG
+7019,7019.ftdna-illumina.5430,Blue-grey,BGG
+7020,7020.23andme.5431,Brown,Brown
+7028,7028.ancestry.5438,Brown,Brown
+7047,7047.23andme.5450,Brown,Brown
+7055,7055.23andme.5461,Brown,Brown
+7053,7053.23andme.5459,Blue-grey,BGG
+6248,6248.23andme.5462,Green,BGG
+7072,7072.23andme.5473,Blue-grey,BGG
+7080,7080.23andme.5481,Brown,Brown
+7082,7082.23andme.5483,Blue,BGG
+7089,7089.23andme.5488,Blue,BGG
+7092,7092.23andme.5491,Hazel (brown/green),Int
+7114,7114.23andme.5520,Dark blue,BGG
+7616,7616.ftdna-illumina.5965,Brown,Brown
+7134,7134.ancestry.5536,Brown,Brown
+7141,7141.ancestry.5540,Brown,Brown
+7144,7144.23andme.5543,Brown,Brown
+7153,7153.23andme.5550,Dark brown,Brown
+7155,7155.23andme.5552,Hazel,Int
+7156,7156.23andme.5553,Brown,Brown
+7184,7184.ancestry.5566,Green,BGG
+7189,7189.ancestry.5572,Blue-green,BGG
+7190,7190.ancestry.5574,Blue,BGG
+7195,7195.23andme.5578,Hazel (brown/green),Int
+7198,7198.23andme.5583,Blue-green,BGG
+7199,7199.23andme.5584,Gray-blue,BGG
+7214,7214.23andme.5596,Hazel,Int
+7218,7218.23andme.5600,Blue,BGG
+10260,10260.ancestry.8525,Dark brown,Brown
+7228,7228.ancestry.5608,Blue-grey,BGG
+7232,7232.23andme.5612,Blue-grey,BGG
+7244,7244.ancestry.5624,Green-gray,BGG
+7252,7252.23andme.5631,Blue,BGG
+7266,7266.23andme.5643,"Blue, grey, green, changing",BGG
+7267,7267.ftdna-illumina.5644,Dark brown,Brown
+7636,7636.23andme.5982,Blue-grey,BGG
+7292,7292.23andme.5661,Blue-green,BGG
+7285,7285.23andme.5656,"Hazel (light brown, dark green, dark blue)",Int
+7280,7280.23andme.5651,Green,BGG
+7297,7297.ancestry.5666,Brown,Brown
+7307,7307.ancestry.5676,Green,BGG
+7312,7312.23andme.5684,Brown,Brown
+7320,7320.23andme.5688,Green-hazel,Int
+7322,7322.23andme.5690,Green,BGG
+7339,7339.ancestry.5702,Brown,Brown
+4897,4897.23andme.5715,Green-brown,Int
+7358,7358.23andme.5716,Brown,Brown
+7360,7360.23andme.5718,Brown,Brown
+7372,7372.ftdna-illumina.5726,Blue with yellow parts,BGG
+7362,7362.23andme-exome-vcf.5719,Brown,Brown
+7639,7639.23andme.5983,Blue,BGG
+7611,7611.23andme.5987,Brown,Brown
+7732,7732.ftdna-illumina.6077,Blue-grey,BGG
+7733,7733.ancestry.6078,Hazel/light brown,Int
+7376,7376.ancestry.5729,Blue,BGG
+7377,7377.ftdna-illumina.5730,Brown,Brown
+7622,7622.ancestry.5999,Hazel/light brown,Int
+7657,7657.23andme.6002,"Blue, grey, green, changing",BGG
+7393,7393.23andme.5743,Blue-grey,BGG
+7688,7688.ftdna-illumina.6032,Green,BGG
+7693,7693.ancestry.6038,Blue-grey,BGG
+7345,7345.ancestry.5785,Blue,BGG
+7454,7454.ancestry.5806,Blue,BGG
+7465,7465.ftdna-illumina.5812,Brown/black,Brown
+7466,7466.23andme.5813,Hazel,Int
+7470,7470.ancestry.5817,Blue-grey,BGG
+7471,7471.23andme.5818,Brown,Brown
+7475,7475.23andme.5821,Hazel (brown/green),Int
+7485,7485.23andme.5830,Hazel (brown/green),Int
+7498,7498.ancestry.5842,Brown,Brown
+7493,7493.23andme-exome-vcf.5843,Green,BGG
+7510,7510.23andme.5856,Blue-grey,BGG
+7538,7538.ftdna-illumina.5884,Dark brown,Brown
+7547,7547.23andme.5897,Brown,Brown
+7549,7549.23andme.5899,Brown,Brown
+7565,7565.23andme.5911,Brown,Brown
+7567,7567.ancestry.5913,Blue-grey,BGG
+7568,7568.23andme.5914,Blue-grey; broken amber collarette,BGG
+7561,7561.ancestry.5907,Brown/black,Brown
+7569,7569.ancestry.5915,Hazel (brown/green),Int
+5263,5263.23andme.5931,Brown,Brown
+7585,7585.23andme.5932,Brown,Brown
+7597,7597.ftdna-illumina.5943,Brown,Brown
+7163,7163.ftdna-illumina.5947,Blue,BGG
+7701,7701.23andme.6045,Green,BGG
+7708,7708.ftdna-illumina.6051,Brown,Brown
+7753,7753.ancestry.6103,"Hazel (light brown, dark green, dark blue)",Int
+7759,7759.23andme.6108,Brown,Brown
+7761,7761.23andme.6111,Blue-grey,BGG
+7763,7763.ancestry.6113,Hazel (brown/green),Int
+7757,7757.ancestry.6122,Brown,Brown
+7787,7787.23andme.6143,Blue-grey,BGG
+7785,7785.23andme.6141,Blue-grey,BGG
+6861,6861.23andme.6156,Blue,BGG
+7841,7841.23andme.6196,Green,BGG
+7854,7854.ancestry.6207,Hazel (brown/green),Int
+7857,7857.ancestry.6211,Hazel,Int
+7923,7923.23andme.6274,Blue,BGG
+8129,8129.23andme.6463,Blue-green-grey,BGG
+8134,8134.23andme.6467,Dark brown,Brown
+8135,8135.23andme.6468,Green,BGG
+7828,7828.ftdna-illumina.6185,Brown/black,Brown
+8015,8015.ftdna-illumina.6351,Blue-green,BGG
+8046,8046.23andme.6378,Brown,Brown
+8049,8049.ancestry.6381,Dark brown,Brown
+8052,8052.ftdna-illumina.6384,Brown,Brown
+9869,9869.23andme.8128,Brown,Brown
+7929,7929.23andme.6281,Brown,Brown
+7931,7931.ancestry.6284,Blue-grey,BGG
+9246,9246.23andme.7572,Brown,Brown
+8058,8058.23andme.6391,Hazel,Int
+8060,8060.23andme.6394,Gray-blue,BGG
+8073,8073.23andme.6404,Dark blue,BGG
+8076,8076.23andme.6405,Blue-green,BGG
+8085,8085.ftdna-illumina.6426,Green-gray,BGG
+8090,8090.23andme.6431,Blue,BGG
+8100,8100.23andme.6442,Blue-grey,BGG
+8314,8314.23andme.6645,"Hazel (light brown, dark green, dark blue)",Int
+7945,7945.23andme.6293,Blue-green,BGG
+7953,7953.ancestry.6302,Brown,Brown
+7954,7954.23andme.6303,Dark brown,Brown
+7955,7955.23andme.6304,Hazel/light brown,Int
+7959,7959.ancestry.6309,Dark brown,Brown
+7967,7967.23andme.6312,Blue grey,BGG
+8318,8318.23andme.6649,Blue-green,BGG
+8403,8403.23andme.6731,Blue,BGG
+7981,7981.23andme.6325,Blue-green-grey,BGG
+7989,7989.23andme.6330,Hazel (brown/green),Int
+7992,7992.23andme.6331,Blue with yellow parts,BGG
+6882,6882.23andme.6340,Hazel (brown/green),Int
+7876,7876.23andme.6234,Blue-grey,BGG
+7882,7882.ftdna-illumina.6237,Blue-grey,BGG
+7888,7888.ancestry.6238,Green,BGG
+7905,7905.23andme.6252,Green-brown,Int
+7907,7907.ancestry.6253,"Hazel (light brown, dark green, dark blue)",Int
+7912,7912.ftdna-illumina.6259,Green,BGG
+7915,7915.23andme.6262,Blue,BGG
+8178,8178.23andme.6510,Brown,Brown
+9081,9081.ancestry.7421,Brown,Brown
+8184,8184.23andme.6521,Green-brown,Int
+8155,8155.23andme.6526,Dark brown,Brown
+8202,8202.23andme.6541,Green,BGG
+8204,8204.ancestry.6543,Green,BGG
+8206,8206.23andme.6545,Blue-green,BGG
+8212,8212.ancestry.6553,Brown,Brown
+8217,8217.23andme.6558,Blue,BGG
+8246,8246.23andme.6582,Blue,BGG
+8237,8237.23andme.6571,blue,BGG
+8319,8319.ancestry.6651,Blue-grey; broken amber collarette,BGG
+8336,8336.23andme.6671,Brown,Brown
+8360,8360.ancestry.6688,Blue-grey,BGG
+8363,8363.23andme.6691,Green,BGG
+8369,8369.23andme-exome-vcf.6698,Blue,BGG
+8379,8379.ancestry.6711,Brown,Brown
+9366,9366.ancestry.7674,Blue-grey with central heterochromia,BGG
+8266,8266.23andme.6596,Hazel (brown/green),Int
+8415,8415.23andme.6744,Brown,Brown
+8416,8416.23andme.6745,Gray-blue,BGG
+8423,8423.23andme.6750,Hazel/light brown,Int
+8427,8427.ftdna-illumina.6753,Brown,Brown
+8635,8635.23andme.6991,Hazel (brown/green),Int
+8844,8844.ancestry.7191,Blue-grey with central heterochromia,BGG
+8911,8911.23andme.7244,Blue-green,BGG
+8933,8933.ftdna-illumina.7266,Blue-grey,BGG
+9072,9072.23andme.7413,Blue-green,BGG
+8948,8948.23andme.7287,Blue,BGG
+8951,8951.23andme.7291,Blue-grey,BGG
+8988,8988.23andme.7333,Hazel (brown/green),Int
+8990,8990.ancestry.7334,Dark brown,Brown
+8449,8449.23andme.6813,Blue,BGG
+8655,8655.ancestry.7006,Blue,BGG
+8653,8653.ftdna-illumina.7010,Green,BGG
+8675,8675.23andme.7024,Green,BGG
+8685,8685.ftdna-illumina.7031,Brown,Brown
+8701,8701.23andme.7046,Green,BGG
+8707,8707.ftdna-illumina.7050,Blue-grey,BGG
+8466,8466.ancestry.6829,Blue-grey,BGG
+8818,8818.23andme.7166,Brown,Brown
+8905,8905.23andme.7239,Blue,BGG
+8930,8930.ftdna-illumina.7263,Gray-blue,BGG
+8947,8947.ancestry.7304,Blue,BGG
+8934,8934.23andme.7318,Blue-green,BGG
+8977,8977.23andme.7322,Green,BGG
+8978,8978.ftdna-illumina.7323,Blue-grey,BGG
+8476,8476.23andme.6841,Green,BGG
+8499,8499.ftdna-illumina.6869,Brown,Brown
+8522,8522.23andme.6889,Dark brown,Brown
+8529,8529.ancestry.6890,Blue,BGG
+8731,8731.23andme.7067,Green,BGG
+8534,8534.ancestry.6896,Blue-grey,BGG
+8538,8538.ancestry.6898,Blue-grey; broken amber collarette,BGG
+8578,8578.ancestry.6937,Blue grey,BGG
+8841,8841.23andme.7184,Brown,Brown
+8852,8852.23andme.7197,Hazel (brown/green),Int
+8864,8864.23andme.7207,Blue,BGG
+8874,8874.23andme.7214,Brown,Brown
+8915,8915.23andme.7249,Blue grey,BGG
+8885,8885.ancestry.7222,Blue-grey with central heterochromia,BGG
+8547,8547.ftdna-illumina.6908,Brown,Brown
+8739,8739.ancestry.7073,Dark brown,Brown
+8737,8737.23andme.7075,Hazel (brown/green),Int
+5943,5943.ancestry.7109,Brown,Brown
+8780,8780.ftdna-illumina.7119,Dark brown,Brown
+4696,4696.ftdna-illumina.6913,Green,BGG
+9421,9421.23andme.7721,Blue,BGG
+8561,8561.23andme.6923,Blue-grey,BGG
+9023,9023.ancestry.7361,Brown,Brown
+8565,8565.ancestry.6929,Hazel,Int
+8567,8567.23andme-exome-vcf.6931,Blue,BGG
+9039,9039.ancestry.7382,Brown,Brown
+9046,9046.ancestry.7394,Blue-green,BGG
+9050,9050.ftdna-illumina.7398,Hazel/light brown,Int
+8788,8788.23andme.7133,Brown,Brown
+8588,8588.ancestry.6946,Blue,BGG
+8291,8291.23andme.6947,"Hazel (light brown, dark green, dark blue)",Int
+9078,9078.23andme.7417,Amber - (yellow/ocre  brown),Int
+8592,8592.ftdna-illumina.6955,Green,BGG
+8598,8598.23andme.6959,Brown,Brown
+8619,8619.ancestry.6974,Hazel,Int
+4032,4032.23andme.7141,Brown,Brown
+8796,8796.23andme.7142,Blue-grey,BGG
+8803,8803.23andme.7146,Hazel (brown/green),Int
+8808,8808.23andme.7151,Hazel (brown/green),Int
+9812,9812.23andme.8071,Brown,Brown
+9876,9876.23andme.8136,Blue,BGG
+9107,9107.ftdna-illumina.7449,Blue-grey,BGG
+9158,9158.23andme.7495,Blue,BGG
+9906,9906.ancestry.8174,Green,BGG
+9111,9111.ancestry.7452,Hazel,Int
+9429,9429.ftdna-illumina.7728,Green,BGG
+9430,9430.23andme.7729,Blue-grey,BGG
+9457,9457.23andme.7756,Brown,Brown
+9450,9450.23andme.7749,Brown,Brown
+9427,9427.23andme.7751,Green,BGG
+9480,9480.ancestry.7774,Green-hazel,Int
+9486,9486.23andme.7780,Blue,BGG
+9489,9489.23andme.7786,Blue-grey with central heterochromia,BGG
+9119,9119.23andme.7458,Blue-grey,BGG
+9928,9928.23andme.8189,Blue-green,BGG
+9126,9126.23andme.7468,Blue-grey,BGG
+9129,9129.ancestry.7470,Brown,Brown
+9133,9133.23andme.7475,Brown,Brown
+9702,9702.23andme.8548,Brown,Brown
+9832,9832.ancestry.8089,Blue-green,BGG
+9835,9835.ancestry.8091,Blue,BGG
+9941,9941.ftdna-illumina.8207,Dark brown,Brown
+9135,9135.23andme.7478,Green,BGG
+9146,9146.ftdna-illumina.7485,Hazel (brown/green),Int
+9516,9516.23andme.7810,Brown,Brown
+9518,9518.23andme.7812,Blue-grey,BGG
+9519,9519.23andme.7813,Gray-blue,BGG
+9527,9527.23andme.7818,Hazel/light brown,Int
+9539,9539.ancestry.7827,Brown,Brown
+9541,9541.23andme.7828,Blue,BGG
+9548,9548.ancestry.7831,Blue,BGG
+9565,9565.23andme.7839,Hazel (brown/green),Int
+9568,9568.23andme.7842,Blue-green,BGG
+9164,9164.ancestry.7500,Dark brown,Brown
+9166,9166.23andme.7503,Dark brown,Brown
+9172,9172.23andme.7506,"Blue, grey, green, changing",BGG
+9185,9185.23andme.7516,Hazel (brown/green),Int
+10171,10171.23andme.8436,Brown,Brown
+9589,9589.23andme.7856,Blue-grey,BGG
+10279,10279.23andme.8537,Hazel,Int
+9969,9969.23andme.8234,Brown,Brown
+9974,9974.ancestry.8238,Green,BGG
+10012,10012.23andme.8276,Dark brown,Brown
+9215,9215.23andme.7543,Blue,BGG
+9218,9218.ancestry.7545,Hazel,Int
+9220,9220.23andme.7546,Brown,Brown
+9223,9223.ancestry.7548,Blue,BGG
+9616,9616.23andme.7878,Hazel,Int
+9232,9232.23andme.7556,Blue,BGG
+9276,9276.23andme.7595,Blue,BGG
+9281,9281.ancestry.7602,Brown,Brown
+9656,9656.ancestry.7929,Brown,Brown
+10036,10036.ancestry.8300,Brown,Brown
+9399,9399.23andme.8323,Dark brown,Brown
+10080,10080.23andme.8339,Green,BGG
+9247,9247.ancestry.7574,Brown,Brown
+9262,9262.23andme.7584,Brown,Brown
+9277,9277.ancestry.7596,Hazel (brown/green),Int
+9283,9283.ancestry.7605,Blue-grey with central heterochromia,BGG
+9324,9324.23andme.7637,Blue,BGG
+9314,9314.ancestry.7631,Hazel (brown/green),Int
+9323,9323.23andme.7636,Green,BGG
+9327,9327.ancestry.7639,Blue-green,BGG
+9380,9380.23andme.7686,Green,BGG
+10302,10302.23andme.8558,Blue-green-grey,BGG
+10232,10232.ancestry.8493,Brown,Brown
+10141,10141.23andme.8499,Blue,BGG
+10246,10246.ancestry.8507,Brown,Brown
+9351,9351.23andme.7663,Gray-blue,BGG
+9672,9672.23andme.7942,Blue,BGG
+9697,9697.23andme.7982,Brown,Brown
+9724,9724.ftdna-illumina.7988,Dark brown,Brown
+9726,9726.23andme.7992,Dark brown,Brown
+9747,9747.23andme.8003,Brown,Brown
+9749,9749.23andme.8004,Gray-blue,BGG
+9752,9752.ancestry.8006,Dark brown,Brown
+9367,9367.23andme.7675,Green-hazel,Int
+9372,9372.23andme.7682,Blue-grey,BGG
+10142,10142.23andme.8412,Hazel (brown/green),Int
+9781,9781.23andme.8034,Green,BGG
+9784,9784.ancestry.8038,Blue,BGG
+9375,9375.23andme.8039,Dark brown,Brown
+9799,9799.23andme.8051,Brown,Brown
+9796,9796.23andme.8052,Blue-grey,BGG
+9804,9804.ancestry.8059,Hazel (brown/green),Int
+10093,10093.ancestry.8353,Brown,Brown
+10383,10383.ancestry.8633,Blue-grey,BGG
+9195,9195.23andme.8585,Blue-grey,BGG
+10959,10959.23andme.9082,Brown/black,Brown
+10339,10339.23andme.8594,Blue,BGG
+10347,10347.23andme.8604,Blue,BGG
+11008,11008.23andme.9131,Dark brown,Brown
+10362,10362.23andme.8611,Hazel,Int
+11015,11015.23andme.9135,Dark brown,Brown
+10374,10374.23andme.8624,Green-hazel,Int
+10381,10381.ancestry.8630,Brown,Brown
+9360,9360.23andme.8649,Brown,Brown
+10408,10408.23andme.8659,Blue-grey,BGG
+10414,10414.23andme.8676,Brown,Brown
+10420,10420.23andme.8678,Blue-grey,BGG
+10430,10430.ancestry.8694,Brown,Brown
+10426,10426.23andme-exome-vcf.8686,Blue,BGG
+10424,10424.ancestry.8695,Brown-amber,Int
+5790,5790.ancestry.8711,Blue,BGG
+10448,10448.ancestry.8721,Blue-grey,BGG
+10469,10469.23andme.8739,Brown,Brown
+10477,10477.23andme.8745,Blue-grey with central heterochromia,BGG
+10489,10489.23andme.8761,Gray-blue,BGG
+10490,10490.ancestry.8762,Brown,Brown
+10507,10507.23andme.8778,Hazel (brown/green),Int
+10508,10508.ancestry.8779,Brown/black,Brown
+10497,10497.23andme.8768,Green,BGG
+10530,10530.ancestry.8795,Blue grey,BGG
+10544,10544.23andme.8809,Brown,Brown
+10572,10572.ancestry.8836,Blue-grey,BGG
+10575,10575.ftdna-illumina.8844,Brown,Brown
+10583,10583.23andme.8851,Hazel,Int
+10586,10586.ancestry.8852,Blue-grey,BGG
+10620,10620.23andme.8876,Dark brown,Brown
+10627,10627.ancestry.8878,Green,BGG
+10635,10635.ancestry.8887,"Blue, grey, green, changing",BGG
+10645,10645.ancestry.8895,Blue,BGG
+10653,10653.ancestry.8900,Brown,Brown
+8120,8120.23andme.8903,Blue,BGG
+10785,10785.ancestry.8929,Green-gray,BGG
+10827,10827.ancestry.8962,Green-hazel,Int
+10828,10828.23andme.8963,Blue-grey,BGG
+10840,10840.23andme.8971,Blue,BGG
+10868,10868.23andme.8976,Green-gray,BGG
+10883,10883.ftdna-illumina.8995,Hazel (brown/green),Int
+10897,10897.ancestry.9010,Blue-grey,BGG
+10919,10919.23andme.9022,Blue,BGG
+10926,10926.23andme.9026,Hazel,Int
