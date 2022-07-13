@@ -1,5 +1,3 @@
-import string
-from tkinter import Y
 from matplotlib.pyplot import title
 import streamlit as st
 import pickle
