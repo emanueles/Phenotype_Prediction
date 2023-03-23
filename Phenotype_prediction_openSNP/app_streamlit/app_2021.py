@@ -11,11 +11,12 @@ st.subheader("Este aplicativo tem como objetivo prever a cor dos olhos de uma pe
 st.write("")
 
 
-st.write("Para isso serão utilizadas os dados referentes a mutações nos genes, chamadas SNPs, o valor de cada SNP pode ser encontrado a partir do processamento do material genético.")
+st.write("Para isso serão utilizadas os dados referentes a variações em uma única base no DNA, chamadas SNPs. O valor de cada SNP pode ser encontrado a partir do processamento do material genético.")
 st.markdown("> OBS: O modelo não funciona sem o valor para a SNP rs12913832.")
 st.markdown("> OBS: Não existem dados faltantes para a SNP rs1393350, observados nos dados obtidos.")
-st.write("Página do projeto completo: ")
+# st.write("Página do projeto completo: ")
 st.header("Selecione os dados da amostra a ser classificada:")
+
 
 col1, col2, col3, col4, col5, col6 = st.columns(6)
 with col1:
