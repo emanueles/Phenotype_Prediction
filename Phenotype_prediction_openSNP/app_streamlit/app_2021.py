@@ -4,10 +4,10 @@ import streamlit as st
 import pickle
 import pandas as pd
 import plotly.express as px
-import numpy as np
+import numpy as np  
 
 st.title("Aplicativo Eye Color Prediction")
-st.subheader("Este aplicativo tem como objetivo prever a cor dos olhos de uma pessoa usando apenas o seu material genético, utilizando Aprendizado de Máquina.")
+st.markdown("**Este aplicativo tem como objetivo prever a cor dos olhos de uma pessoa usando apenas o seu material genético, utilizando Aprendizado de Máquina.**")
 st.write("")
 
 
@@ -15,7 +15,7 @@ st.write("Para isso serão utilizadas os dados referentes a variações em uma �
 st.markdown("> OBS: O modelo não funciona sem o valor para a SNP rs12913832.")
 st.markdown("> OBS: Não existem dados faltantes para a SNP rs1393350, observados nos dados obtidos.")
 # st.write("Página do projeto completo: ")
-st.header("Selecione os dados da amostra a ser classificada:")
+st.markdown("### Selecione os dados da amostra a ser classificada:")
 
 
 col1, col2, col3, col4, col5, col6 = st.columns(6)
@@ -26,28 +26,31 @@ with col2:
 with col3:
     rs12896399 = st.radio("rs12896399", ["GG","TG", "TT", "missing"])
 with col4:
-    rs16891982 = st.radio("rs16891982", ["CC","GC", "GG", "missing"])
+    rs16891982 = st.radio("rs16891982", ["CC","CG", "GG", "missing"])
 with col5:
     rs1393350 = st.radio("rs1393350", ["GG", "GA", "AA"])
 with col6:
     rs12203592 = st.radio("rs12203592", ["CC","TC", "CC", "missing"])
 
+#rs12203592	rs12896399	rs12913832	rs1393350	rs16891982	rs1800407
+colors = ('#1f78b4', '#b15928', '#b2df8a')
 
-x_new = pd.DataFrame({"rs12913832":[rs12913832],
-                     "rs1800407":[rs1800407],
-                     "rs12896399":[rs12896399],
-                     "rs16891982":[rs16891982],
-                     "rs1393350":[rs1393350],
-                    "rs12203592":[rs12203592]})
+x_new = pd.DataFrame({"rs12203592":[rs12203592],
+                      "rs12896399":[rs12896399],
+                      "rs12913832":[rs12913832],
+                      "rs1393350":[rs1393350],
+                      "rs16891982":[rs16891982],
+                      "rs1800407":[rs1800407],
+                    })
 
 
-st.subheader("Dados de Entrada:")
+st.markdown("### Dados de Entrada:")
 st.table(x_new)
 
-st.header("Resultado")
+st.markdown("### Resultado")
 
 # Predição
-filename = "best_model.sav"
+filename = "best_model_2021.sav"
 model = pickle.load(open(filename, 'rb'))
 y_predict = model.predict_proba(x_new)
 
@@ -57,8 +60,8 @@ categorias = ["Azul/Verde/Cinza","Castanho/Escuro","Intermediário"]
 y = np.round(y_predict[0]*100, 2)
 text = [f"{val:.2%}" for val in y_predict[0]]
 
-fig = px.bar(y=categorias, x=y_predict[0], orientation='h', text=text, width=800,
-     height= 600, title="Predição da Cor dos Olhos do Indivíduo")
+fig = px.bar(y=categorias, x=y_predict[0], orientation='h', color=categorias, text=text, width=800,
+             color_discrete_sequence=colors, height= 400, title="Predição da Cor dos Olhos do Indivíduo")
 
 fig.update_traces(textfont_size=20)
 
